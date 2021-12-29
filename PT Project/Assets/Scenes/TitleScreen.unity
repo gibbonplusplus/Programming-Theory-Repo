@@ -303,6 +303,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a691cdf3de0920244b93e5ca233c3249, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  henPrefab: {fileID: 4168366721478821735, guid: 4e2502d87a7d54d40a2dd1c65ea4e421, type: 3}
+  roosterPrefab: {fileID: 9142088251019265274, guid: 6f1645f074918784a9930e82ac5a16aa, type: 3}
+  chickPrefab: {fileID: 5157734538735362833, guid: 2139563874feb5f45954478b44f54be1, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
